@@ -33,3 +33,13 @@ The project was created to explore how computer vision can be used in smart moni
 I wanted to build something that feels closer to a real system instead of only testing an AI model on images
 
 This project combines AI with monitoring logic and real time processing which makes it more practical and interactive
+
+## Demo Preview
+
+### Live Object Detection
+
+![Detection Demo](screenshots/detection-demo.png)
+
+### Restricted Area Monitoring
+
+![Restricted Zone Alert](screenshots/restricted-zone-alert.png)
