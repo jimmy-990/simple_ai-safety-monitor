@@ -34,6 +34,16 @@ I wanted to build something that feels closer to a real system instead of only t
 
 This project combines AI with monitoring logic and real time processing which makes it more practical and interactive
 
+## Future Improvements
+
+Add sound alerts and notifications
+
+Support multiple cameras
+
+Track object movement in real time
+
+Save screenshots automatically when alerts happen 
+
 ## Demo Preview
 
 ### Live Object Detection
